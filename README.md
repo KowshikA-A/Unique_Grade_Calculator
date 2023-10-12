@@ -19,6 +19,14 @@ The app calculates the student's relative grade as a percentage and pairs it wit
 ### 🎨 Elegant Custom Styling
 We've tailored the buttons and input fields to provide a visually pleasing experience. The app's interface is not just functional; it's a work of art. You'll enjoy every click.
 
+## 👀 Overview
+<img width="303" alt="Screenshot 2023-10-12 at 4 31 40 PM" src="https://github.com/KowshikA-A/Unique_Grade_Calculator/assets/92981602/05f3c620-118d-4b1a-bdcf-f4fbfa5b1cb0"><br>
+
+<img width="299" alt="Screenshot 2023-10-12 at 4 36 29 PM" src="https://github.com/KowshikA-A/Unique_Grade_Calculator/assets/92981602/e2cc81cc-4057-44a7-af61-9c81f47a15d3"><br>
+
+<img width="300" alt="Screenshot 2023-10-12 at 4 36 44 PM" src="https://github.com/KowshikA-A/Unique_Grade_Calculator/assets/92981602/1771be1a-7862-4f07-b045-96b77cfb34ce">
+
+
 ## How to Get Started
 
 1. **Enter the student's actual score** in the "Actual Score" field. Be accurate!
