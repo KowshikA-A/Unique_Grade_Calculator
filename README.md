@@ -33,7 +33,7 @@ This app's vibrant grading scale and colorful interface make it perfect for educ
 - Python
 - Tkinter Library
 
-**GitHub Repository Link:** [Unique Grading Calculator](https://github.com/yourusername/unique-grading-calculator)
+**GitHub Repository Link:** [Unique Grading Calculator](https://github.com/KowshikA-A/Unique_Grade_Calculator)
 
 Feel free to explore, modify, or contribute to this open-source project. If you run into any snags or have ideas for enhancement, give us a shout through issues or pull requests on the GitHub repository.
 
