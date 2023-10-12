@@ -1,3 +1,5 @@
+GitHub Repository Description:
+
 🌟 **Unique Grading Calculator: An Engaging Python App with a Splash of Color!** 🌈
 
 Looking for a distinctive grading calculator? Look no further! Our Python application is not just functional but eye-catching. It's designed to make grading calculation a unique and colorful experience. Say goodbye to boring interfaces.
@@ -33,8 +35,7 @@ This app's vibrant grading scale and colorful interface make it perfect for educ
 - Python
 - Tkinter Library
 
-**GitHub Repository Link:** [Unique Grading Calculator](https://github.com/KowshikA-A/Unique_Grade_Calculator)
+**GitHub Repository Link:** [Unique Grade Calculator](https://github.com/KowshikA-A/unique_grade_calculator)
 
 Feel free to explore, modify, or contribute to this open-source project. If you run into any snags or have ideas for enhancement, give us a shout through issues or pull requests on the GitHub repository.
 
-Add a little zest to your grading with this Python and Tkinter application! 🚀
