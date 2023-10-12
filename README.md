@@ -1,5 +1,3 @@
-GitHub Repository Description:
-
 🌟 **Unique Grading Calculator: An Engaging Python App with a Splash of Color!** 🌈
 
 Looking for a distinctive grading calculator? Look no further! Our Python application is not just functional but eye-catching. It's designed to make grading calculation a unique and colorful experience. Say goodbye to boring interfaces.
